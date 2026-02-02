@@ -8,7 +8,7 @@ Tech Stack
 
 HTML5, CSS3, JavaScript, React.js, Node.js, Java, Python, C, C++, Docker, AWS, Linux, Git
 
-Open kunal.html in your browser or use a local server.
+Open kunal.html in your browser or use a local server.or go with this link (https://kunalportfoliodev.netlify.app/)
 
 Built With
 
