@@ -3,7 +3,7 @@
 A modern, animated portfolio website showcasing creative development and DevOps projects.
 
 ## 🌐 Live Demo
-Your portfolio will be live at: `https://your-site.netlify.app`
+Your portfolio will be live at: `https://kunalnportfolio.netlify.app/`
 
 ---
 
