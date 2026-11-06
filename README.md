@@ -82,7 +82,7 @@ portfolio/
 - JavaScript
 
 **Links:**
-- 🔗 Live: https://nayiraah.netlify.app/
+- 🔗 Live: https://nayi-raah.netlify.app/
 - 💻 Code: https://github.com/KunalNirmalkar07/Nayi-Raah
 
 ---
